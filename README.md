@@ -6,11 +6,11 @@ This isn’t just a project — it’s a reflection of dedication, learning, and
 
 ## 🌐 Live Preview
 
-> [Vercel](https://vercel.com/)
+> [Vercel](https://pro-cleaning-omega.vercel.app/)
 
 ## 📸 Screenshots View
 
-![Desktop Screenshot](./screenshots/desktop-preview.png)
+![Desktop Screenshot](images/ProCleaning.png)
 
 
 
